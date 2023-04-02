@@ -4,6 +4,11 @@
 ## Description :
  
 <b>Colibri HR System Django REST API </b>
+- Average age per industry
+- Average salaries per industry
+- Average salaries per years of experience
+- Employee CRUD operations
+
 
 ## Setup Steps
 
