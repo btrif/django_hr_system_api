@@ -22,3 +22,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    # (.hr_system_venv) D:\workspace\btrif\django_hr_system_api>python manage.py runserver
